@@ -1,4 +1,13 @@
 ### Hi there 👋
+#### Welcome to fwho1150's profile
+
+🌱 I'm a student currently studying AIST in CUHK.
+
+🔭 I'm interested in learning more about data science and deep learning.
+
+⚡ I love to play around with code.
+
+
 
 <!--
 **fwho1150/fwho1150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
