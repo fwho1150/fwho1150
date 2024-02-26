@@ -1,5 +1,4 @@
 ### Hi there 👋
-#### Welcome to fwho1150's profile
 
 🌱 I'm a student currently studying AIST in CUHK.
 
