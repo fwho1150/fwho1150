@@ -1,6 +1,4 @@
-### Hi there 👋
-
-🌱 I'm a student currently studying AIST in CUHK.
+🤔 Nothing to see here...
 
 
 <!--
