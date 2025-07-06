@@ -1,4 +1,6 @@
-🤔 Nothing to see here...
+<h1>About Me</h1>
+
+A dedicated and passionate undergraduate student major in Artificial Intelligence with experience in programming, game development, and fundamental machine learning.
 
 
 <!--
@@ -15,5 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
