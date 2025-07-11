@@ -1,6 +1,6 @@
 <h1>About Me</h1>
 
-A dedicated and passionate undergraduate student major in Artificial Intelligence with experience in programming, game development, and fundamental machine learning.
+A undergraduate student major in Artificial Intelligence with experience in **Programming**, **Game Development**, **DBMS** and fundamental **ML**.
 
 
 <!--
